@@ -1,0 +1,15 @@
+/workspaces/csharpPractice/HolaMundo/bin/Debug/net10.0/HolaMundo
+/workspaces/csharpPractice/HolaMundo/bin/Debug/net10.0/HolaMundo.deps.json
+/workspaces/csharpPractice/HolaMundo/bin/Debug/net10.0/HolaMundo.runtimeconfig.json
+/workspaces/csharpPractice/HolaMundo/bin/Debug/net10.0/HolaMundo.dll
+/workspaces/csharpPractice/HolaMundo/bin/Debug/net10.0/HolaMundo.pdb
+/workspaces/csharpPractice/HolaMundo/obj/Debug/net10.0/HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharpPractice/HolaMundo/obj/Debug/net10.0/HolaMundo.AssemblyInfoInputs.cache
+/workspaces/csharpPractice/HolaMundo/obj/Debug/net10.0/HolaMundo.AssemblyInfo.cs
+/workspaces/csharpPractice/HolaMundo/obj/Debug/net10.0/HolaMundo.csproj.CoreCompileInputs.cache
+/workspaces/csharpPractice/HolaMundo/obj/Debug/net10.0/HolaMundo.sourcelink.json
+/workspaces/csharpPractice/HolaMundo/obj/Debug/net10.0/HolaMundo.dll
+/workspaces/csharpPractice/HolaMundo/obj/Debug/net10.0/refint/HolaMundo.dll
+/workspaces/csharpPractice/HolaMundo/obj/Debug/net10.0/HolaMundo.pdb
+/workspaces/csharpPractice/HolaMundo/obj/Debug/net10.0/HolaMundo.genruntimeconfig.cache
+/workspaces/csharpPractice/HolaMundo/obj/Debug/net10.0/ref/HolaMundo.dll

@@ -1,0 +1,15 @@
+/workspaces/csharpPractice/01-Pr01/bin/Debug/net10.0/01-Pr01
+/workspaces/csharpPractice/01-Pr01/bin/Debug/net10.0/01-Pr01.deps.json
+/workspaces/csharpPractice/01-Pr01/bin/Debug/net10.0/01-Pr01.runtimeconfig.json
+/workspaces/csharpPractice/01-Pr01/bin/Debug/net10.0/01-Pr01.dll
+/workspaces/csharpPractice/01-Pr01/bin/Debug/net10.0/01-Pr01.pdb
+/workspaces/csharpPractice/01-Pr01/obj/Debug/net10.0/01-Pr01.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharpPractice/01-Pr01/obj/Debug/net10.0/01-Pr01.AssemblyInfoInputs.cache
+/workspaces/csharpPractice/01-Pr01/obj/Debug/net10.0/01-Pr01.AssemblyInfo.cs
+/workspaces/csharpPractice/01-Pr01/obj/Debug/net10.0/01-Pr01.csproj.CoreCompileInputs.cache
+/workspaces/csharpPractice/01-Pr01/obj/Debug/net10.0/01-Pr01.sourcelink.json
+/workspaces/csharpPractice/01-Pr01/obj/Debug/net10.0/01-Pr01.dll
+/workspaces/csharpPractice/01-Pr01/obj/Debug/net10.0/refint/01-Pr01.dll
+/workspaces/csharpPractice/01-Pr01/obj/Debug/net10.0/01-Pr01.pdb
+/workspaces/csharpPractice/01-Pr01/obj/Debug/net10.0/01-Pr01.genruntimeconfig.cache
+/workspaces/csharpPractice/01-Pr01/obj/Debug/net10.0/ref/01-Pr01.dll
